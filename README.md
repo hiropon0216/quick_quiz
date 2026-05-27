@@ -19,6 +19,7 @@
 10. [デプロイ仕様（GitHub Pages）](#10-デプロイ仕様github-pages)
 11. [問題追加ワークフロー](#11-問題追加ワークフロー)
 12. [実装フェーズ計画](#12-実装フェーズ計画)
+13. [軽量化方針](#13-軽量化方針)
 
 ---
 
@@ -62,15 +63,15 @@ quick_quiz/
 │   ├── data/
 │   │   └── questions/
 │   │       ├── index.ts         # 全カテゴリをまとめてexport
-│   │       ├── history.json     # 歴史（300問目標）
-│   │       ├── geography.json   # 地理（200問目標）
-│   │       ├── science.json     # 理科・科学（250問目標）
-│   │       ├── literature.json  # 文学・芸術（200問目標）
-│   │       ├── sports.json      # スポーツ（200問目標）
-│   │       ├── entertainment.json # 芸能・エンタメ（200問目標）
-│   │       ├── politics.json    # 政治・経済（150問目標）
-│   │       ├── language.json    # 言語・ことわざ（200問目標）
-│   │       ├── food.json        # 食文化（150問目標）
+│   │       ├── history.json     # 歴史（400問目標）
+│   │       ├── geography.json   # 地理（300問目標）
+│   │       ├── science.json     # 理科・科学（350問目標）
+│   │       ├── literature.json  # 文学・芸術（300問目標）
+│   │       ├── sports.json      # スポーツ（250問目標）
+│   │       ├── entertainment.json # 芸能・エンタメ（250問目標）
+│   │       ├── politics.json    # 政治・経済（250問目標）
+│   │       ├── language.json    # 言語・ことわざ（250問目標）
+│   │       ├── food.json        # 食文化（200問目標）
 │   │       ├── news_2025_Q3.json # 時事2025年Q3
 │   │       ├── news_2025_Q4.json # 時事2025年Q4（随時追加）
 │   │       └── ...              # 時事は四半期ごとにファイル追加
@@ -190,19 +191,22 @@ type Category =
 
 ### 4.4 問題数目標
 
-| カテゴリ | 目標問題数 |
-|----------|-----------|
-| 歴史 | 300問 |
-| 地理 | 200問 |
-| 理科・科学 | 250問 |
-| 文学・芸術 | 200問 |
-| スポーツ | 200問 |
-| 芸能・エンタメ | 200問 |
-| 政治・経済 | 150問 |
-| 言語・ことわざ | 200問 |
-| 食文化 | 150問 |
-| 時事（随時追加） | 〜500問 |
-| **合計** | **〜2,350問** |
+基礎固めとして、まずは **3,050問** を到達目標にする。  
+これは「主要カテゴリを広く1周できる最低ライン」とし、みんはや等で頻出しやすい一般知識を優先して配分する。
+
+| カテゴリ | 目標問題数 | 位置づけ |
+|----------|-----------:|----------|
+| 歴史 | 400問 | 日本史・世界史の頻出人物、事件、年代 |
+| 地理 | 300問 | 国、首都、地形、都道府県、世界遺産 |
+| 理科・科学 | 350問 | 中学理科、日常科学、宇宙、生物、化学 |
+| 文学・芸術 | 300問 | 作家、作品、美術、音楽、古典 |
+| スポーツ | 250問 | 競技ルール、大会、選手、記録 |
+| 芸能・エンタメ | 250問 | 映画、音楽、アニメ、テレビ、流行文化 |
+| 政治・経済 | 250問 | 制度、経済用語、国際機関、現代社会 |
+| 言語・ことわざ | 250問 | ことわざ、慣用句、漢字、語源 |
+| 食文化 | 200問 | 料理、食材、郷土料理、世界の食文化 |
+| 時事（随時追加） | 500問 | 四半期ごとのニュース・社会トピック |
+| **合計** | **3,050問** | 基礎固めの第一到達点 |
 
 ---
 
@@ -451,6 +455,7 @@ interface QuizStore {
   currentScreen: Screen;
   selectedCategory: Category | "all";
   selectedMode: "buzzer" | "choice" | null;
+  isReview: boolean;
   sessionQuestions: Question[];    // 今セッションの10問
   currentIndex: number;
   buzzerPressed: boolean;
@@ -459,8 +464,7 @@ interface QuizStore {
 
   // アクション
   selectCategory: (category: Category | "all") => void;
-  selectMode: (mode: "buzzer" | "choice") => void;
-  startSession: () => void;
+  startSession: (mode: "buzzer" | "choice", options?: { isReview?: boolean }) => Promise<void>;
   pressBuzzer: () => void;
   submitAnswer: (input: string) => "correct" | "wrong";
   selectChoice: (choice: string) => "correct" | "wrong";
@@ -475,8 +479,7 @@ type Screen =
   | "buzzer"
   | "choice"
   | "result"
-  | "session_end"
-  | "review";
+  | "session_end";
 ```
 
 ### 8.2 progressStore（永続化）
@@ -563,7 +566,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm ci
+      - run: npm install
       - run: npm run build
       - uses: peaceiris/actions-gh-pages@v4
         with:
@@ -644,3 +647,17 @@ https://hiropon0216.github.io/quick_quiz/ で確認（スマホOK）
 - [ ] `vite.config.ts` の `base` 設定
 - [ ] GitHub Actions ワークフロー作成
 - [ ] 本番デプロイ・スマホ実機確認
+
+---
+
+## 13. 軽量化方針
+
+問題数が増えてもスマホでサクサク動くことを優先する。
+
+- 初期表示では全問題JSONを読み込まない
+- トップ画面は `manifest.json` と `localStorage` の進捗のみで描画する
+- 問題データはカテゴリ単位で遅延ロードする
+- 「すべてのカテゴリ」選択時も、空カテゴリは読み込み対象から外す
+- セッション開始時に未習熟問題から最大10問だけを抽出する
+- `localStorage` には回答済み問題の進捗のみ保存する
+- 未回答問題は `progress` 未定義として扱い、未習熟・連続正解0回とみなす

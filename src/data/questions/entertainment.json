@@ -1,0 +1,382 @@
+[
+  {
+    "id": "ent-0001",
+    "question": "『千と千尋の神隠し』を監督した人物は何でしょう？",
+    "answer": "宮崎駿",
+    "reading": "宮崎駿",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "宮崎駿",
+      "脚本",
+      "声優",
+      "合唱団"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「宮崎駿」です。「『千と千尋の神隠し』を監督した人物」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0002",
+    "question": "『君の名は。』を監督した人物は何でしょう？",
+    "answer": "新海誠",
+    "reading": "新海誠",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "アワード",
+      "予告編",
+      "アカデミー賞",
+      "新海誠"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「新海誠」です。「『君の名は。』を監督した人物」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0003",
+    "question": "アメリカ映画芸術科学アカデミーが授与する映画賞は何でしょう？",
+    "answer": "アカデミー賞",
+    "reading": "アカデミー賞",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "脚本",
+      "声優",
+      "アカデミー賞",
+      "続編"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「アカデミー賞」です。「アメリカ映画芸術科学アカデミーが授与する映画賞」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0004",
+    "question": "音楽で歌のない伴奏だけの音源は何でしょう？",
+    "answer": "カラオケ",
+    "reading": "カラオケ",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "予告編",
+      "カラオケ",
+      "視聴率",
+      "アワード"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「カラオケ」です。「音楽で歌のない伴奏だけの音源」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0005",
+    "question": "映画やドラマの撮影台本は何でしょう？",
+    "answer": "脚本",
+    "reading": "脚本",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "脚本",
+      "サビ",
+      "続編",
+      "カラオケ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「脚本」です。「映画やドラマの撮影台本」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0006",
+    "question": "舞台で役者が観客に見せる演技空間は何でしょう？",
+    "answer": "ステージ",
+    "reading": "ステージ",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "宮崎駿",
+      "視聴率",
+      "アワード",
+      "ステージ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ステージ」です。「舞台で役者が観客に見せる演技空間」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0007",
+    "question": "テレビ番組などの視聴者数の割合を示す指標は何でしょう？",
+    "answer": "視聴率",
+    "reading": "視聴率",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "サビ",
+      "続編",
+      "視聴率",
+      "コマ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「視聴率」です。「テレビ番組などの視聴者数の割合を示す指標」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0008",
+    "question": "ラジオ番組で音楽を選曲して流す役割の人は何でしょう？",
+    "answer": "ディスクジョッキー",
+    "reading": "ディスクジョッキー",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "ステージ",
+      "ディスクジョッキー",
+      "緞帳",
+      "宮崎駿"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ディスクジョッキー」です。「ラジオ番組で音楽を選曲して流す役割の人」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0009",
+    "question": "漫画で絵と文字を組み合わせた一コマは何でしょう？",
+    "answer": "コマ",
+    "reading": "コマ",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 1,
+    "choices": [
+      "コマ",
+      "アカデミー賞",
+      "ディスクジョッキー",
+      "サビ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「コマ」です。「漫画で絵と文字を組み合わせた一コマ」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0010",
+    "question": "アニメ制作で声を担当する俳優は何でしょう？",
+    "answer": "声優",
+    "reading": "声優",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "監督",
+      "緞帳",
+      "宮崎駿",
+      "声優"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「声優」です。「アニメ制作で声を担当する俳優」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0011",
+    "question": "映画で作品全体の演出を統括する人は何でしょう？",
+    "answer": "監督",
+    "reading": "監督",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "アカデミー賞",
+      "ディスクジョッキー",
+      "監督",
+      "テンポ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「監督」です。「映画で作品全体の演出を統括する人」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0012",
+    "question": "映画や音楽で優れた作品に贈られる賞の総称は何でしょう？",
+    "answer": "アワード",
+    "reading": "アワード",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "緞帳",
+      "アワード",
+      "脚本",
+      "声優"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「アワード」です。「映画や音楽で優れた作品に贈られる賞の総称」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0013",
+    "question": "インターネット上で動画を生配信することは何でしょう？",
+    "answer": "ライブ配信",
+    "reading": "ライブ配信",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "ライブ配信",
+      "アワード",
+      "テンポ",
+      "アカデミー賞"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ライブ配信」です。「インターネット上で動画を生配信すること」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0014",
+    "question": "楽曲の中で最も盛り上がる部分は何でしょう？",
+    "answer": "サビ",
+    "reading": "サビ",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "ファンダム",
+      "脚本",
+      "声優",
+      "サビ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「サビ」です。「楽曲の中で最も盛り上がる部分」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0015",
+    "question": "複数人で歌う音楽グループは何でしょう？",
+    "answer": "合唱団",
+    "reading": "合唱団",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "アワード",
+      "テンポ",
+      "合唱団",
+      "視聴率"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「合唱団」です。「複数人で歌う音楽グループ」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0016",
+    "question": "演劇で観客席に面した幕は何でしょう？",
+    "answer": "緞帳",
+    "reading": "緞帳",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 2,
+    "choices": [
+      "脚本",
+      "緞帳",
+      "サビ",
+      "ファンダム"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「緞帳」です。「演劇で観客席に面した幕」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0017",
+    "question": "映画の公開前に流される短い宣伝映像は何でしょう？",
+    "answer": "予告編",
+    "reading": "予告編",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 3,
+    "choices": [
+      "予告編",
+      "新海誠",
+      "視聴率",
+      "アワード"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「予告編」です。「映画の公開前に流される短い宣伝映像」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0018",
+    "question": "音楽の拍子を刻む速さは何でしょう？",
+    "answer": "テンポ",
+    "reading": "テンポ",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 3,
+    "choices": [
+      "コマ",
+      "サビ",
+      "ファンダム",
+      "テンポ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「テンポ」です。「音楽の拍子を刻む速さ」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0019",
+    "question": "ある作品の続きとして作られる作品は何でしょう？",
+    "answer": "続編",
+    "reading": "続編",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 3,
+    "choices": [
+      "新海誠",
+      "視聴率",
+      "続編",
+      "緞帳"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「続編」です。「ある作品の続きとして作られる作品」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  },
+  {
+    "id": "ent-0020",
+    "question": "特定の作品を好む人たちの集まりは何でしょう？",
+    "answer": "ファンダム",
+    "reading": "ファンダム",
+    "acceptableAnswers": [],
+    "categoryId": "entertainment",
+    "difficulty": 3,
+    "choices": [
+      "サビ",
+      "ファンダム",
+      "カラオケ",
+      "コマ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ファンダム」です。「特定の作品を好む人たちの集まり」に当たる芸能・エンタメ分野の基礎事項です。作品、人物、賞、制作上の役割を関連付けて覚えると、映画・音楽・アニメ・テレビの横断的な問題に強くなります。"
+  }
+]

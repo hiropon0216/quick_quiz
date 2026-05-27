@@ -1,0 +1,667 @@
+[
+  {
+    "id": "geo-0001",
+    "question": "日本で最も面積が大きい都道府県は何でしょう？",
+    "answer": "北海道",
+    "reading": "北海道",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "北海道",
+      "東京",
+      "福岡市",
+      "パリ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「北海道」です。「日本で最も面積が大きい都道府県」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0002",
+    "question": "日本で最も高い山は何でしょう？",
+    "answer": "富士山",
+    "reading": "富士山",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "インド",
+      "ローマ",
+      "北京",
+      "富士山"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「富士山」です。「日本で最も高い山」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0003",
+    "question": "日本で最も長い川は何でしょう？",
+    "answer": "信濃川",
+    "reading": "信濃川",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "バンコク",
+      "サハラ砂漠",
+      "信濃川",
+      "キャンベラ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「信濃川」です。「日本で最も長い川」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0004",
+    "question": "日本で最も大きい湖は何でしょう？",
+    "answer": "琵琶湖",
+    "reading": "琵琶湖",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "北海道",
+      "琵琶湖",
+      "ナイル川",
+      "パナマ運河"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「琵琶湖」です。「日本で最も大きい湖」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0005",
+    "question": "日本の首都は何でしょう？",
+    "answer": "東京",
+    "reading": "東京",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "東京",
+      "アンデス山脈",
+      "信濃川",
+      "名古屋市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「東京」です。「日本の首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0006",
+    "question": "北海道の県庁所在地は何でしょう？",
+    "answer": "札幌市",
+    "reading": "札幌市",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "東京",
+      "ロシア",
+      "ベルリン",
+      "札幌市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「札幌市」です。「北海道の県庁所在地」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0007",
+    "question": "沖縄県の県庁所在地は何でしょう？",
+    "answer": "那覇市",
+    "reading": "那覇市",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "オタワ",
+      "ソウル",
+      "那覇市",
+      "ワシントンD.C."
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「那覇市」です。「沖縄県の県庁所在地」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0008",
+    "question": "大阪府の府庁所在地は何でしょう？",
+    "answer": "大阪市",
+    "reading": "大阪市",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "スエズ運河",
+      "大阪市",
+      "ブラジリア",
+      "ジャカルタ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「大阪市」です。「大阪府の府庁所在地」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0009",
+    "question": "愛知県の県庁所在地は何でしょう？",
+    "answer": "名古屋市",
+    "reading": "名古屋市",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "名古屋市",
+      "アマゾン川",
+      "アルプス山脈",
+      "富士山"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「名古屋市」です。「愛知県の県庁所在地」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0010",
+    "question": "福岡県の県庁所在地は何でしょう？",
+    "answer": "福岡市",
+    "reading": "福岡市",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "キリマンジャロ",
+      "琵琶湖",
+      "名古屋市",
+      "福岡市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「福岡市」です。「福岡県の県庁所在地」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0011",
+    "question": "世界で最も面積が大きい国は何でしょう？",
+    "answer": "ロシア",
+    "reading": "ロシア",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "インド",
+      "ローマ",
+      "ロシア",
+      "札幌市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ロシア」です。「世界で最も面積が大きい国」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0012",
+    "question": "世界で最も人口が多い国の一つは何でしょう？",
+    "answer": "インド",
+    "reading": "インド",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "バンコク",
+      "インド",
+      "ロンドン",
+      "キャンベラ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「インド」です。「世界で最も人口が多い国の一つ」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0013",
+    "question": "アメリカ合衆国の首都は何でしょう？",
+    "answer": "ワシントンD.C.",
+    "reading": "ワシントンD.C.",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "ワシントンD.C.",
+      "カイロ",
+      "ナイル川",
+      "パナマ運河"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ワシントンD.C.」です。「アメリカ合衆国の首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0014",
+    "question": "イギリスの首都は何でしょう？",
+    "answer": "ロンドン",
+    "reading": "ロンドン",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "エベレスト",
+      "アンデス山脈",
+      "信濃川",
+      "ロンドン"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ロンドン」です。「イギリスの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0015",
+    "question": "フランスの首都は何でしょう？",
+    "answer": "パリ",
+    "reading": "パリ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "東京",
+      "福岡市",
+      "パリ",
+      "グリーンランド"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「パリ」です。「フランスの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0016",
+    "question": "ドイツの首都は何でしょう？",
+    "answer": "ベルリン",
+    "reading": "ベルリン",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 1,
+    "choices": [
+      "オタワ",
+      "ベルリン",
+      "那覇市",
+      "インド"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ベルリン」です。「ドイツの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0017",
+    "question": "イタリアの首都は何でしょう？",
+    "answer": "ローマ",
+    "reading": "ローマ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "ローマ",
+      "ロンドン",
+      "ブラジリア",
+      "ジャカルタ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ローマ」です。「イタリアの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0018",
+    "question": "カナダの首都は何でしょう？",
+    "answer": "オタワ",
+    "reading": "オタワ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "北京",
+      "アマゾン川",
+      "アルプス山脈",
+      "オタワ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「オタワ」です。「カナダの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0019",
+    "question": "オーストラリアの首都は何でしょう？",
+    "answer": "キャンベラ",
+    "reading": "キャンベラ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "キリマンジャロ",
+      "琵琶湖",
+      "キャンベラ",
+      "サハラ砂漠"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「キャンベラ」です。「オーストラリアの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0020",
+    "question": "ブラジルの首都は何でしょう？",
+    "answer": "ブラジリア",
+    "reading": "ブラジリア",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "ロシア",
+      "ブラジリア",
+      "北海道",
+      "札幌市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ブラジリア」です。「ブラジルの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0021",
+    "question": "エジプトの首都は何でしょう？",
+    "answer": "カイロ",
+    "reading": "カイロ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "カイロ",
+      "大阪市",
+      "ワシントンD.C.",
+      "オタワ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「カイロ」です。「エジプトの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0022",
+    "question": "中国の首都は何でしょう？",
+    "answer": "北京",
+    "reading": "北京",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "パリ",
+      "ブラジリア",
+      "ナイル川",
+      "北京"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「北京」です。「中国の首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0023",
+    "question": "韓国の首都は何でしょう？",
+    "answer": "ソウル",
+    "reading": "ソウル",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "エベレスト",
+      "アンデス山脈",
+      "ソウル",
+      "北京"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ソウル」です。「韓国の首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0024",
+    "question": "タイの首都は何でしょう？",
+    "answer": "バンコク",
+    "reading": "バンコク",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "東京",
+      "バンコク",
+      "スエズ運河",
+      "グリーンランド"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「バンコク」です。「タイの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0025",
+    "question": "インドネシアの首都は何でしょう？",
+    "answer": "ジャカルタ",
+    "reading": "ジャカルタ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "ジャカルタ",
+      "富士山",
+      "那覇市",
+      "インド"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ジャカルタ」です。「インドネシアの首都」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0026",
+    "question": "世界で最も長い川としてよく知られるアフリカの川は何でしょう？",
+    "answer": "ナイル川",
+    "reading": "ナイル川",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "名古屋市",
+      "ロンドン",
+      "キャンベラ",
+      "ナイル川"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ナイル川」です。「世界で最も長い川としてよく知られるアフリカの川」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0027",
+    "question": "南米を流れる世界最大級の流域面積を持つ川は何でしょう？",
+    "answer": "アマゾン川",
+    "reading": "アマゾン川",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "カイロ",
+      "ナイル川",
+      "アマゾン川",
+      "ベルリン"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「アマゾン川」です。「南米を流れる世界最大級の流域面積を持つ川」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0028",
+    "question": "世界最高峰の山は何でしょう？",
+    "answer": "エベレスト",
+    "reading": "エベレスト",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 2,
+    "choices": [
+      "キリマンジャロ",
+      "エベレスト",
+      "ソウル",
+      "サハラ砂漠"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「エベレスト」です。「世界最高峰の山」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0029",
+    "question": "世界最大の砂漠として知られる北アフリカの砂漠は何でしょう？",
+    "answer": "サハラ砂漠",
+    "reading": "サハラ砂漠",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "サハラ砂漠",
+      "パナマ運河",
+      "北海道",
+      "札幌市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「サハラ砂漠」です。「世界最大の砂漠として知られる北アフリカの砂漠」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0030",
+    "question": "地中海と紅海を結ぶ運河は何でしょう？",
+    "answer": "スエズ運河",
+    "reading": "スエズ運河",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "信濃川",
+      "大阪市",
+      "ワシントンD.C.",
+      "スエズ運河"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「スエズ運河」です。「地中海と紅海を結ぶ運河」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0031",
+    "question": "太平洋と大西洋を結ぶ中米の運河は何でしょう？",
+    "answer": "パナマ運河",
+    "reading": "パナマ運河",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "パリ",
+      "ブラジリア",
+      "パナマ運河",
+      "福岡市"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「パナマ運河」です。「太平洋と大西洋を結ぶ中米の運河」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0032",
+    "question": "ヨーロッパを代表する山脈は何でしょう？",
+    "answer": "アルプス山脈",
+    "reading": "アルプス山脈",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "アマゾン川",
+      "アルプス山脈",
+      "ローマ",
+      "北京"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「アルプス山脈」です。「ヨーロッパを代表する山脈」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0033",
+    "question": "南米大陸西部を縦断する山脈は何でしょう？",
+    "answer": "アンデス山脈",
+    "reading": "アンデス山脈",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "アンデス山脈",
+      "バンコク",
+      "サハラ砂漠",
+      "グリーンランド"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「アンデス山脈」です。「南米大陸西部を縦断する山脈」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0034",
+    "question": "アフリカ大陸最高峰は何でしょう？",
+    "answer": "キリマンジャロ",
+    "reading": "キリマンジャロ",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "パナマ運河",
+      "富士山",
+      "那覇市",
+      "キリマンジャロ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「キリマンジャロ」です。「アフリカ大陸最高峰」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  },
+  {
+    "id": "geo-0035",
+    "question": "世界最大の島として知られる地域は何でしょう？",
+    "answer": "グリーンランド",
+    "reading": "グリーンランド",
+    "acceptableAnswers": [],
+    "categoryId": "geography",
+    "difficulty": 3,
+    "choices": [
+      "名古屋市",
+      "ロンドン",
+      "グリーンランド",
+      "琵琶湖"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「グリーンランド」です。「世界最大の島として知られる地域」に該当する地理事項です。地理では、名称だけでなく、地図上の位置、周辺地域、首都・河川・山脈などの関連情報と一緒に覚えると、別の聞かれ方にも対応しやすくなります。"
+  }
+]

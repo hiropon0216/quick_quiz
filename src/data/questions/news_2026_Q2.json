@@ -1,0 +1,508 @@
+[
+  {
+    "id": "news-0001",
+    "question": "国連が掲げる持続可能な開発目標の略称は何でしょう？",
+    "answer": "SDGs",
+    "reading": "SDGs",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "SDGs",
+      "二酸化炭素",
+      "ビデオ会議",
+      "地球温暖化"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-01",
+    "explanation": "答えは「SDGs」です。「国連が掲げる持続可能な開発目標の略称」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0002",
+    "question": "人工知能の略称としてよく使われる言葉は何でしょう？",
+    "answer": "AI",
+    "reading": "AI",
+    "acceptableAnswers": [
+      "ai"
+    ],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "多要素認証",
+      "風力発電",
+      "憲法記念日",
+      "AI"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-02",
+    "explanation": "答えは「AI」です。「人工知能の略称としてよく使われる言葉」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0003",
+    "question": "生成AIが文章や画像などを作る技術は何でしょう？",
+    "answer": "生成AI",
+    "reading": "生成AI",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "選挙権",
+      "二酸化炭素",
+      "生成AI",
+      "少子高齢化"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-03",
+    "explanation": "答えは「生成AI」です。「生成AIが文章や画像などを作る技術」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0004",
+    "question": "温室効果ガス排出量を実質ゼロにする考え方は何でしょう？",
+    "answer": "カーボンニュートラル",
+    "reading": "カーボンニュートラル",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "多要素認証",
+      "カーボンニュートラル",
+      "SDGs",
+      "QRコード"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-04",
+    "explanation": "答えは「カーボンニュートラル」です。「温室効果ガス排出量を実質ゼロにする考え方」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0005",
+    "question": "地球温暖化の原因となる代表的な温室効果ガスは何でしょう？",
+    "answer": "二酸化炭素",
+    "reading": "二酸化炭素",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "二酸化炭素",
+      "パンデミック",
+      "避難情報",
+      "少子高齢化"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-05",
+    "explanation": "答えは「二酸化炭素」です。「地球温暖化の原因となる代表的な温室効果ガス」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0006",
+    "question": "現金を使わずに支払う決済方法の総称は何でしょう？",
+    "answer": "キャッシュレス決済",
+    "reading": "キャッシュレス決済",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "太陽光発電",
+      "第2四半期",
+      "SDGs",
+      "キャッシュレス決済"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-06",
+    "explanation": "答えは「キャッシュレス決済」です。「現金を使わずに支払う決済方法の総称」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0007",
+    "question": "スマートフォンなどで使われる二次元コードは何でしょう？",
+    "answer": "QRコード",
+    "reading": "QRコード",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "生成AI",
+      "パンデミック",
+      "QRコード",
+      "梅雨"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-07",
+    "explanation": "答えは「QRコード」です。「スマートフォンなどで使われる二次元コード」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0008",
+    "question": "災害時に一時的に身を寄せる場所は何でしょう？",
+    "answer": "避難所",
+    "reading": "避難所",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "太陽光発電",
+      "避難所",
+      "二酸化炭素",
+      "クラウド"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-08",
+    "explanation": "答えは「避難所」です。「災害時に一時的に身を寄せる場所」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0009",
+    "question": "感染症の世界的大流行は何でしょう？",
+    "answer": "パンデミック",
+    "reading": "パンデミック",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "パンデミック",
+      "個人情報",
+      "EV",
+      "梅雨"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-09",
+    "explanation": "答えは「パンデミック」です。「感染症の世界的大流行」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0010",
+    "question": "オンライン会議で映像と音声を使って話すことは何でしょう？",
+    "answer": "ビデオ会議",
+    "reading": "ビデオ会議",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "リモートワーク",
+      "CSR",
+      "二酸化炭素",
+      "ビデオ会議"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-10",
+    "explanation": "答えは「ビデオ会議」です。「オンライン会議で映像と音声を使って話すこと」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0011",
+    "question": "インターネット上にデータを保存する仕組みは何でしょう？",
+    "answer": "クラウド",
+    "reading": "クラウド",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "QRコード",
+      "個人情報",
+      "クラウド",
+      "AI"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-11",
+    "explanation": "答えは「クラウド」です。「インターネット上にデータを保存する仕組み」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0012",
+    "question": "本人確認で複数の要素を使う認証は何でしょう？",
+    "answer": "多要素認証",
+    "reading": "多要素認証",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 1,
+    "choices": [
+      "リモートワーク",
+      "多要素認証",
+      "パンデミック",
+      "地球温暖化"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-12",
+    "explanation": "答えは「多要素認証」です。「本人確認で複数の要素を使う認証」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0013",
+    "question": "個人を特定できる情報は何でしょう？",
+    "answer": "個人情報",
+    "reading": "個人情報",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "個人情報",
+      "風力発電",
+      "憲法記念日",
+      "AI"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-13",
+    "explanation": "答えは「個人情報」です。「個人を特定できる情報」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0014",
+    "question": "災害時に自治体などが出す避難を促す情報は何でしょう？",
+    "answer": "避難情報",
+    "reading": "避難情報",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "選挙権",
+      "カーボンニュートラル",
+      "パンデミック",
+      "避難情報"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-14",
+    "explanation": "答えは「避難情報」です。「災害時に自治体などが出す避難を促す情報」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0015",
+    "question": "地球規模で気温が長期的に上がる現象は何でしょう？",
+    "answer": "地球温暖化",
+    "reading": "地球温暖化",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "クラウド",
+      "風力発電",
+      "地球温暖化",
+      "キャッシュレス決済"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-15",
+    "explanation": "答えは「地球温暖化」です。「地球規模で気温が長期的に上がる現象」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0016",
+    "question": "再生可能エネルギーの一つで太陽光を使う発電は何でしょう？",
+    "answer": "太陽光発電",
+    "reading": "太陽光発電",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "選挙権",
+      "太陽光発電",
+      "個人情報",
+      "少子高齢化"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-16",
+    "explanation": "答えは「太陽光発電」です。「再生可能エネルギーの一つで太陽光を使う発電」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0017",
+    "question": "風の力を利用する発電は何でしょう？",
+    "answer": "風力発電",
+    "reading": "風力発電",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "風力発電",
+      "第2四半期",
+      "SDGs",
+      "キャッシュレス決済"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-17",
+    "explanation": "答えは「風力発電」です。「風の力を利用する発電」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0018",
+    "question": "電気で走る自動車の略称は何でしょう？",
+    "answer": "EV",
+    "reading": "EV",
+    "acceptableAnswers": [
+      "ev"
+    ],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "生成AI",
+      "避難所",
+      "個人情報",
+      "EV"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-18",
+    "explanation": "答えは「EV」です。「電気で走る自動車の略称」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0019",
+    "question": "少子化と高齢化が同時に進む社会問題は何でしょう？",
+    "answer": "少子高齢化",
+    "reading": "少子高齢化",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "地球温暖化",
+      "第2四半期",
+      "少子高齢化",
+      "ビデオ会議"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-19",
+    "explanation": "答えは「少子高齢化」です。「少子化と高齢化が同時に進む社会問題」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0020",
+    "question": "仕事場以外の場所で働く勤務形態は何でしょう？",
+    "answer": "リモートワーク",
+    "reading": "リモートワーク",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 2,
+    "choices": [
+      "生成AI",
+      "リモートワーク",
+      "風力発電",
+      "梅雨"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-20",
+    "explanation": "答えは「リモートワーク」です。「仕事場以外の場所で働く勤務形態」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0021",
+    "question": "4月から6月までの四半期は何でしょう？",
+    "answer": "第2四半期",
+    "reading": "第2四半期",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 3,
+    "choices": [
+      "第2四半期",
+      "CSR",
+      "二酸化炭素",
+      "ビデオ会議"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-21",
+    "explanation": "答えは「第2四半期」です。「4月から6月までの四半期」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0022",
+    "question": "5月3日の国民の祝日は何でしょう？",
+    "answer": "憲法記念日",
+    "reading": "憲法記念日",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 3,
+    "choices": [
+      "QRコード",
+      "多要素認証",
+      "風力発電",
+      "憲法記念日"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-22",
+    "explanation": "答えは「憲法記念日」です。「5月3日の国民の祝日」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0023",
+    "question": "6月頃に多くの地域で見られる長雨の季節は何でしょう？",
+    "answer": "梅雨",
+    "reading": "梅雨",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 3,
+    "choices": [
+      "少子高齢化",
+      "CSR",
+      "梅雨",
+      "避難情報"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-05-23",
+    "explanation": "答えは「梅雨」です。「6月頃に多くの地域で見られる長雨の季節」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0024",
+    "question": "選挙で投票できる年齢に達した人が持つ権利は何でしょう？",
+    "answer": "選挙権",
+    "reading": "選挙権",
+    "acceptableAnswers": [],
+    "categoryId": "news",
+    "difficulty": 3,
+    "choices": [
+      "QRコード",
+      "選挙権",
+      "第2四半期",
+      "AI"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-06-24",
+    "explanation": "答えは「選挙権」です。「選挙で投票できる年齢に達した人が持つ権利」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  },
+  {
+    "id": "news-0025",
+    "question": "企業が社会や環境に配慮して行う活動は何でしょう？",
+    "answer": "CSR",
+    "reading": "CSR",
+    "acceptableAnswers": [
+      "csr"
+    ],
+    "categoryId": "news",
+    "difficulty": 3,
+    "choices": [
+      "CSR",
+      "カーボンニュートラル",
+      "パンデミック",
+      "避難情報"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "publishedAt": "2026-04-25",
+    "explanation": "答えは「CSR」です。「企業が社会や環境に配慮して行う活動」に関する現代社会・時事の基礎事項です。時事問題では、言葉の意味だけでなく、なぜ話題になるのか、社会・経済・技術・環境にどのような影響があるのかを押さえることが重要です。"
+  }
+]

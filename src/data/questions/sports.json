@@ -1,0 +1,462 @@
+[
+  {
+    "id": "spo-0001",
+    "question": "サッカーの国際統括団体は何でしょう？",
+    "answer": "FIFA",
+    "reading": "FIFA",
+    "acceptableAnswers": [
+      "fifa"
+    ],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "FIFA",
+      "ラブ",
+      "ブロック",
+      "バーディー"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「FIFA」です。「サッカーの国際統括団体」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0002",
+    "question": "オリンピックを統括する国際組織は何でしょう？",
+    "answer": "IOC",
+    "reading": "IOC",
+    "acceptableAnswers": [
+      "ioc"
+    ],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "一本",
+      "マラソン",
+      "ゴールキーパー",
+      "IOC"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「IOC」です。「オリンピックを統括する国際組織」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0003",
+    "question": "野球で一度に本塁まで進める打球は何でしょう？",
+    "answer": "ホームラン",
+    "reading": "ホームラン",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "シャトル",
+      "デュース",
+      "ホームラン",
+      "スキー板"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ホームラン」です。「野球で一度に本塁まで進める打球」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0004",
+    "question": "野球で投手が打者を三振に取ることは何でしょう？",
+    "answer": "奪三振",
+    "reading": "奪三振",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "竹刀",
+      "奪三振",
+      "IOC",
+      "3点"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「奪三振」です。「野球で投手が打者を三振に取ること」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0005",
+    "question": "テニスで0点を表す言葉は何でしょう？",
+    "answer": "ラブ",
+    "reading": "ラブ",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "ラブ",
+      "ブロック",
+      "バーディー",
+      "ノックアウト"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ラブ」です。「テニスで0点を表す言葉」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0006",
+    "question": "テニスで40対40の状態は何でしょう？",
+    "answer": "デュース",
+    "reading": "デュース",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "マラソン",
+      "ゴールキーパー",
+      "ホームラン",
+      "デュース"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「デュース」です。「テニスで40対40の状態」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0007",
+    "question": "バスケットボールで1本の通常フィールドゴールに入る点数は何でしょう？",
+    "answer": "2点",
+    "reading": "2点",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "ラブ",
+      "サーブ",
+      "2点",
+      "シャトル"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「2点」です。「バスケットボールで1本の通常フィールドゴールに入る点数」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0008",
+    "question": "バスケットボールで遠距離シュートに入る点数は何でしょう？",
+    "answer": "3点",
+    "reading": "3点",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "個人メドレー",
+      "3点",
+      "2点",
+      "竹刀"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「3点」です。「バスケットボールで遠距離シュートに入る点数」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0009",
+    "question": "ラグビーでボールを相手陣地のインゴールに置く得点方法は何でしょう？",
+    "answer": "トライ",
+    "reading": "トライ",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "トライ",
+      "バーディー",
+      "ノックアウト",
+      "FIFA"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「トライ」です。「ラグビーでボールを相手陣地のインゴールに置く得点方法」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0010",
+    "question": "バレーボールで相手の攻撃をネット際で止めるプレーは何でしょう？",
+    "answer": "ブロック",
+    "reading": "ブロック",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "ゴールキーパー",
+      "ホームラン",
+      "3点",
+      "ブロック"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ブロック」です。「バレーボールで相手の攻撃をネット際で止めるプレー」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0011",
+    "question": "卓球で球を打ち始めるプレーは何でしょう？",
+    "answer": "サーブ",
+    "reading": "サーブ",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 1,
+    "choices": [
+      "ブロック",
+      "ボギー",
+      "サーブ",
+      "ラブ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「サーブ」です。「卓球で球を打ち始めるプレー」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0012",
+    "question": "柔道で最も高い評価は何でしょう？",
+    "answer": "一本",
+    "reading": "一本",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "内野手",
+      "一本",
+      "竹刀",
+      "個人メドレー"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「一本」です。「柔道で最も高い評価」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0013",
+    "question": "剣道で使う竹製の道具は何でしょう？",
+    "answer": "竹刀",
+    "reading": "竹刀",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "竹刀",
+      "ノックアウト",
+      "FIFA",
+      "デュース"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「竹刀」です。「剣道で使う竹製の道具」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0014",
+    "question": "相撲で勝敗を裁く人は何でしょう？",
+    "answer": "行司",
+    "reading": "行司",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "ホームラン",
+      "3点",
+      "竹刀",
+      "行司"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「行司」です。「相撲で勝敗を裁く人」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0015",
+    "question": "ゴルフで基準打数より1打少なく入れることは何でしょう？",
+    "answer": "バーディー",
+    "reading": "バーディー",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "ボギー",
+      "5つ",
+      "バーディー",
+      "ブロック"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「バーディー」です。「ゴルフで基準打数より1打少なく入れること」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0016",
+    "question": "ゴルフで基準打数より1打多く入れることは何でしょう？",
+    "answer": "ボギー",
+    "reading": "ボギー",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "奪三振",
+      "ボギー",
+      "個人メドレー",
+      "内野手"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ボギー」です。「ゴルフで基準打数より1打多く入れること」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0017",
+    "question": "陸上競技で42.195kmを走る種目は何でしょう？",
+    "answer": "マラソン",
+    "reading": "マラソン",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "マラソン",
+      "FIFA",
+      "デュース",
+      "サーブ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「マラソン」です。「陸上競技で42.195kmを走る種目」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0018",
+    "question": "水泳で4つの泳法を順に泳ぐ種目は何でしょう？",
+    "answer": "個人メドレー",
+    "reading": "個人メドレー",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "3点",
+      "竹刀",
+      "スキー板",
+      "個人メドレー"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「個人メドレー」です。「水泳で4つの泳法を順に泳ぐ種目」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0019",
+    "question": "スキーで雪上を滑るために使う細長い板は何でしょう？",
+    "answer": "スキー板",
+    "reading": "スキー板",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "5つ",
+      "IOC",
+      "スキー板",
+      "バーディー"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「スキー板」です。「スキーで雪上を滑るために使う細長い板」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0020",
+    "question": "ボクシングで相手を倒して10秒以内に立てない状態は何でしょう？",
+    "answer": "ノックアウト",
+    "reading": "ノックアウト",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 2,
+    "choices": [
+      "トライ",
+      "ノックアウト",
+      "内野手",
+      "奪三振"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ノックアウト」です。「ボクシングで相手を倒して10秒以内に立てない状態」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0021",
+    "question": "オリンピックの五輪マークの輪の数は何でしょう？",
+    "answer": "5つ",
+    "reading": "5つ",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 3,
+    "choices": [
+      "5つ",
+      "デュース",
+      "サーブ",
+      "ボギー"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「5つ」です。「オリンピックの五輪マークの輪の数」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0022",
+    "question": "サッカーで守備側の最後方を主に守る選手は何でしょう？",
+    "answer": "ゴールキーパー",
+    "reading": "ゴールキーパー",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 3,
+    "choices": [
+      "竹刀",
+      "個人メドレー",
+      "シャトル",
+      "ゴールキーパー"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ゴールキーパー」です。「サッカーで守備側の最後方を主に守る選手」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0023",
+    "question": "野球で一塁・二塁・三塁を守る選手をまとめて呼ぶ守備位置は何でしょう？",
+    "answer": "内野手",
+    "reading": "内野手",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 3,
+    "choices": [
+      "IOC",
+      "2点",
+      "内野手",
+      "ノックアウト"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「内野手」です。「野球で一塁・二塁・三塁を守る選手をまとめて呼ぶ守備位置」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  },
+  {
+    "id": "spo-0024",
+    "question": "バドミントンで打ち合う羽根のついた球は何でしょう？",
+    "answer": "シャトル",
+    "reading": "シャトル",
+    "acceptableAnswers": [],
+    "categoryId": "sports",
+    "difficulty": 3,
+    "choices": [
+      "行司",
+      "シャトル",
+      "奪三振",
+      "トライ"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「シャトル」です。「バドミントンで打ち合う羽根のついた球」に関するスポーツの基本用語です。競技名、ルール、得点方法、団体名、道具名をセットで整理すると、実際の試合や大会に関する問題にもつながります。"
+  }
+]

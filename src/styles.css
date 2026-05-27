@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-family: "Noto Sans JP", system-ui, sans-serif;
+  background: #090a10;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at 50% 0%, rgba(25, 230, 255, 0.14), transparent 32rem),
+    #090a10;
+}
+
+button,
+input {
+  font: inherit;
+}

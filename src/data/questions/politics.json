@@ -1,0 +1,464 @@
+[
+  {
+    "id": "pol-0001",
+    "question": "日本の国会を構成する議院の一つで、衆議院と対になるものは何でしょう？",
+    "answer": "参議院",
+    "reading": "参議院",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "参議院",
+      "選挙",
+      "安全保障理事会",
+      "デフレーション"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「参議院」です。「日本の国会を構成する議院の一つで、衆議院と対になるもの」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0002",
+    "question": "日本国憲法の三大原則の一つは何でしょう？",
+    "answer": "平和主義",
+    "reading": "平和主義",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "WTO",
+      "財政政策",
+      "官僚制",
+      "平和主義"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「平和主義」です。「日本国憲法の三大原則の一つ」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0003",
+    "question": "国の収入と支出の計画は何でしょう？",
+    "answer": "予算",
+    "reading": "予算",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "好況",
+      "提出",
+      "予算",
+      "債券"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「予算」です。「国の収入と支出の計画」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0004",
+    "question": "物やサービスの取引に広く課される税は何でしょう？",
+    "answer": "消費税",
+    "reading": "消費税",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "GDP",
+      "消費税",
+      "平和主義",
+      "最高裁判所"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「消費税」です。「物やサービスの取引に広く課される税」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0005",
+    "question": "国民が代表者を選ぶ制度は何でしょう？",
+    "answer": "選挙",
+    "reading": "選挙",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "選挙",
+      "安全保障理事会",
+      "デフレーション",
+      "条例"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「選挙」です。「国民が代表者を選ぶ制度」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0006",
+    "question": "法律案を国会に提出することは何でしょう？",
+    "answer": "提出",
+    "reading": "提出",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "財政政策",
+      "官僚制",
+      "予算",
+      "提出"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「提出」です。「法律案を国会に提出すること」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0007",
+    "question": "行政を担う国の機関は何でしょう？",
+    "answer": "内閣",
+    "reading": "内閣",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "選挙",
+      "IMF",
+      "内閣",
+      "好況"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「内閣」です。「行政を担う国の機関」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0008",
+    "question": "司法権の最高機関は何でしょう？",
+    "answer": "最高裁判所",
+    "reading": "最高裁判所",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "株式",
+      "最高裁判所",
+      "内閣",
+      "GDP"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「最高裁判所」です。「司法権の最高機関」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0009",
+    "question": "国際連合の略称は何でしょう？",
+    "answer": "国連",
+    "reading": "国連",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "国連",
+      "デフレーション",
+      "条例",
+      "参議院"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「国連」です。「国際連合の略称」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0010",
+    "question": "国際連合の安全保障を扱う主要機関は何でしょう？",
+    "answer": "安全保障理事会",
+    "reading": "安全保障理事会",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "官僚制",
+      "予算",
+      "最高裁判所",
+      "安全保障理事会"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「安全保障理事会」です。「国際連合の安全保障を扱う主要機関」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0011",
+    "question": "国際通貨基金の略称は何でしょう？",
+    "answer": "IMF",
+    "reading": "IMF",
+    "acceptableAnswers": [
+      "imf"
+    ],
+    "categoryId": "politics",
+    "difficulty": 1,
+    "choices": [
+      "安全保障理事会",
+      "金融政策",
+      "IMF",
+      "選挙"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「IMF」です。「国際通貨基金の略称」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0012",
+    "question": "世界貿易機関の略称は何でしょう？",
+    "answer": "WTO",
+    "reading": "WTO",
+    "acceptableAnswers": [
+      "wto"
+    ],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "不況",
+      "WTO",
+      "GDP",
+      "株式"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「WTO」です。「世界貿易機関の略称」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0013",
+    "question": "国内総生産の略称は何でしょう？",
+    "answer": "GDP",
+    "reading": "GDP",
+    "acceptableAnswers": [
+      "gdp"
+    ],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "GDP",
+      "条例",
+      "参議院",
+      "提出"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「GDP」です。「国内総生産の略称」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0014",
+    "question": "物価が継続的に上昇する現象は何でしょう？",
+    "answer": "インフレーション",
+    "reading": "インフレーション",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "予算",
+      "最高裁判所",
+      "GDP",
+      "インフレーション"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「インフレーション」です。「物価が継続的に上昇する現象」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0015",
+    "question": "物価が継続的に下落する現象は何でしょう？",
+    "answer": "デフレーション",
+    "reading": "デフレーション",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "金融政策",
+      "条約",
+      "デフレーション",
+      "安全保障理事会"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「デフレーション」です。「物価が継続的に下落する現象」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0016",
+    "question": "中央銀行が景気や物価を安定させるために行う政策は何でしょう？",
+    "answer": "金融政策",
+    "reading": "金融政策",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "消費税",
+      "金融政策",
+      "株式",
+      "不況"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「金融政策」です。「中央銀行が景気や物価を安定させるために行う政策」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0017",
+    "question": "国や地方公共団体が行う経済政策は何でしょう？",
+    "answer": "財政政策",
+    "reading": "財政政策",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "財政政策",
+      "参議院",
+      "提出",
+      "IMF"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「財政政策」です。「国や地方公共団体が行う経済政策」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0018",
+    "question": "会社が発行する出資証券は何でしょう？",
+    "answer": "株式",
+    "reading": "株式",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "最高裁判所",
+      "GDP",
+      "債券",
+      "株式"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「株式」です。「会社が発行する出資証券」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0019",
+    "question": "資金を借りたことを示す有価証券は何でしょう？",
+    "answer": "債券",
+    "reading": "債券",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "条約",
+      "平和主義",
+      "債券",
+      "デフレーション"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「債券」です。「資金を借りたことを示す有価証券」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0020",
+    "question": "地方公共団体が定める法規は何でしょう？",
+    "answer": "条例",
+    "reading": "条例",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 2,
+    "choices": [
+      "国連",
+      "条例",
+      "不況",
+      "消費税"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「条例」です。「地方公共団体が定める法規」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0021",
+    "question": "国と国との間で結ばれる約束は何でしょう？",
+    "answer": "条約",
+    "reading": "条約",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 3,
+    "choices": [
+      "条約",
+      "提出",
+      "IMF",
+      "金融政策"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「条約」です。「国と国との間で結ばれる約束」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0022",
+    "question": "行政の仕事を担当する公務員組織は何でしょう？",
+    "answer": "官僚制",
+    "reading": "官僚制",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 3,
+    "choices": [
+      "GDP",
+      "株式",
+      "好況",
+      "官僚制"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「官僚制」です。「行政の仕事を担当する公務員組織」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0023",
+    "question": "景気が悪くなる局面は何でしょう？",
+    "answer": "不況",
+    "reading": "不況",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 3,
+    "choices": [
+      "平和主義",
+      "内閣",
+      "不況",
+      "条例"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「不況」です。「景気が悪くなる局面」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  },
+  {
+    "id": "pol-0024",
+    "question": "景気が良くなる局面は何でしょう？",
+    "answer": "好況",
+    "reading": "好況",
+    "acceptableAnswers": [],
+    "categoryId": "politics",
+    "difficulty": 3,
+    "choices": [
+      "インフレーション",
+      "好況",
+      "消費税",
+      "国連"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「好況」です。「景気が良くなる局面」を表す政治・経済の基礎用語です。制度や用語は、誰が担うのか、何を決めるのか、社会や経済にどう影響するのかまで押さえると理解が安定します。"
+  }
+]

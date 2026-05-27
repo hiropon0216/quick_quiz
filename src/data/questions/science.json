@@ -1,0 +1,681 @@
+[
+  {
+    "id": "sci-0001",
+    "question": "水の化学式は何でしょう？",
+    "answer": "H2O",
+    "reading": "H2O",
+    "acceptableAnswers": [
+      "h2o"
+    ],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "H2O",
+      "C",
+      "Cl",
+      "木星"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「H2O」です。「水の化学式」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0002",
+    "question": "二酸化炭素の化学式は何でしょう？",
+    "answer": "CO2",
+    "reading": "CO2",
+    "acceptableAnswers": [
+      "co2"
+    ],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "100度",
+      "光合成",
+      "ワット",
+      "CO2"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「CO2」です。「二酸化炭素の化学式」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0003",
+    "question": "酸素の元素記号は何でしょう？",
+    "answer": "O",
+    "reading": "O",
+    "acceptableAnswers": [
+      "o"
+    ],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "DNA",
+      "雲粒",
+      "O",
+      "ボルト"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「O」です。「酸素の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0004",
+    "question": "水素の元素記号は何でしょう？",
+    "answer": "H",
+    "reading": "H",
+    "acceptableAnswers": [
+      "h"
+    ],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "H2O",
+      "H",
+      "周波数",
+      "心臓"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「H」です。「水素の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0005",
+    "question": "炭素の元素記号は何でしょう？",
+    "answer": "C",
+    "reading": "C",
+    "acceptableAnswers": [
+      "c"
+    ],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "C",
+      "原子",
+      "O",
+      "Na"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「C」です。「炭素の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0006",
+    "question": "鉄の元素記号は何でしょう？",
+    "answer": "Fe",
+    "reading": "Fe",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "C",
+      "0度",
+      "火星",
+      "Fe"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「Fe」です。「鉄の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0007",
+    "question": "金の元素記号は何でしょう？",
+    "answer": "Au",
+    "reading": "Au",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "アンペア",
+      "ヘモグロビン",
+      "Au",
+      "月"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「Au」です。「金の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0008",
+    "question": "銀の元素記号は何でしょう？",
+    "answer": "Ag",
+    "reading": "Ag",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "窒素",
+      "Ag",
+      "オーム",
+      "ミトコンドリア"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「Ag」です。「銀の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0009",
+    "question": "ナトリウムの元素記号は何でしょう？",
+    "answer": "Na",
+    "reading": "Na",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "Na",
+      "光年",
+      "唾液",
+      "CO2"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「Na」です。「ナトリウムの元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0010",
+    "question": "塩素の元素記号は何でしょう？",
+    "answer": "Cl",
+    "reading": "Cl",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "陽子",
+      "H",
+      "Na",
+      "Cl"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「Cl」です。「塩素の元素記号」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0011",
+    "question": "水が氷になる温度は何でしょう？",
+    "answer": "0度",
+    "reading": "0度",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "100度",
+      "光合成",
+      "0度",
+      "Fe"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「0度」です。「水が氷になる温度」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0012",
+    "question": "水が沸騰する温度は何でしょう？",
+    "answer": "100度",
+    "reading": "100度",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "DNA",
+      "100度",
+      "水星",
+      "ボルト"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「100度」です。「水が沸騰する温度」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0013",
+    "question": "地球の唯一の自然衛星は何でしょう？",
+    "answer": "月",
+    "reading": "月",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "月",
+      "ニュートン",
+      "周波数",
+      "心臓"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「月」です。「地球の唯一の自然衛星」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0014",
+    "question": "太陽系で太陽に最も近い惑星は何でしょう？",
+    "answer": "水星",
+    "reading": "水星",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "マグニチュード",
+      "原子",
+      "O",
+      "水星"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「水星」です。「太陽系で太陽に最も近い惑星」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0015",
+    "question": "太陽系で最も大きい惑星は何でしょう？",
+    "answer": "木星",
+    "reading": "木星",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "C",
+      "Cl",
+      "木星",
+      "対流"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「木星」です。「太陽系で最も大きい惑星」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0016",
+    "question": "赤い惑星と呼ばれる惑星は何でしょう？",
+    "answer": "火星",
+    "reading": "火星",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 1,
+    "choices": [
+      "アンペア",
+      "火星",
+      "Au",
+      "100度"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「火星」です。「赤い惑星と呼ばれる惑星」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0017",
+    "question": "植物が光を使って養分を作る働きは何でしょう？",
+    "answer": "光合成",
+    "reading": "光合成",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "光合成",
+      "水星",
+      "オーム",
+      "ミトコンドリア"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「光合成」です。「植物が光を使って養分を作る働き」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0018",
+    "question": "電流の単位は何でしょう？",
+    "answer": "アンペア",
+    "reading": "アンペア",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "ワット",
+      "光年",
+      "唾液",
+      "アンペア"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「アンペア」です。「電流の単位」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0019",
+    "question": "電圧の単位は何でしょう？",
+    "answer": "ボルト",
+    "reading": "ボルト",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "陽子",
+      "H",
+      "ボルト",
+      "雲粒"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ボルト」です。「電圧の単位」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0020",
+    "question": "電気抵抗の単位は何でしょう？",
+    "answer": "オーム",
+    "reading": "オーム",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "0度",
+      "オーム",
+      "H2O",
+      "Fe"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「オーム」です。「電気抵抗の単位」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0021",
+    "question": "力の単位は何でしょう？",
+    "answer": "ニュートン",
+    "reading": "ニュートン",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "ニュートン",
+      "Ag",
+      "月",
+      "アンペア"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ニュートン」です。「力の単位」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0022",
+    "question": "仕事率の単位は何でしょう？",
+    "answer": "ワット",
+    "reading": "ワット",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "木星",
+      "オーム",
+      "周波数",
+      "ワット"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ワット」です。「仕事率の単位」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0023",
+    "question": "ヒトの血液で酸素を運ぶ赤い色素は何でしょう？",
+    "answer": "ヘモグロビン",
+    "reading": "ヘモグロビン",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "マグニチュード",
+      "原子",
+      "ヘモグロビン",
+      "ワット"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ヘモグロビン」です。「ヒトの血液で酸素を運ぶ赤い色素」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0024",
+    "question": "遺伝情報を担う物質は何でしょう？",
+    "answer": "DNA",
+    "reading": "DNA",
+    "acceptableAnswers": [
+      "dna"
+    ],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "C",
+      "DNA",
+      "窒素",
+      "対流"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「DNA」です。「遺伝情報を担う物質」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0025",
+    "question": "細胞の中でエネルギー生産に関わる小器官は何でしょう？",
+    "answer": "ミトコンドリア",
+    "reading": "ミトコンドリア",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "ミトコンドリア",
+      "CO2",
+      "Au",
+      "100度"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「ミトコンドリア」です。「細胞の中でエネルギー生産に関わる小器官」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0026",
+    "question": "音の高さを決める波の性質は何でしょう？",
+    "answer": "周波数",
+    "reading": "周波数",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "Na",
+      "水星",
+      "ボルト",
+      "周波数"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「周波数」です。「音の高さを決める波の性質」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0027",
+    "question": "光が1年に進む距離を表す単位は何でしょう？",
+    "answer": "光年",
+    "reading": "光年",
+    "acceptableAnswers": [
+      "光"
+    ],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "ニュートン",
+      "周波数",
+      "光年",
+      "火星"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「光年」です。「光が1年に進む距離を表す単位」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0028",
+    "question": "地震の規模を表す尺度は何でしょう？",
+    "answer": "マグニチュード",
+    "reading": "マグニチュード",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 2,
+    "choices": [
+      "陽子",
+      "マグニチュード",
+      "ヘモグロビン",
+      "雲粒"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「マグニチュード」です。「地震の規模を表す尺度」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0029",
+    "question": "雲を作る小さな水滴や氷の粒は何でしょう？",
+    "answer": "雲粒",
+    "reading": "雲粒",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "雲粒",
+      "心臓",
+      "H2O",
+      "Fe"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「雲粒」です。「雲を作る小さな水滴や氷の粒」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0030",
+    "question": "大気の主成分で最も多い気体は何でしょう？",
+    "answer": "窒素",
+    "reading": "窒素",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "O",
+      "Ag",
+      "月",
+      "窒素"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「窒素」です。「大気の主成分で最も多い気体」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0031",
+    "question": "血液を全身へ送り出す臓器は何でしょう？",
+    "answer": "心臓",
+    "reading": "心臓",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "木星",
+      "オーム",
+      "心臓",
+      "Cl"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「心臓」です。「血液を全身へ送り出す臓器」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0032",
+    "question": "消化酵素アミラーゼが多く含まれる分泌液は何でしょう？",
+    "answer": "唾液",
+    "reading": "唾液",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "光年",
+      "唾液",
+      "光合成",
+      "ワット"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「唾液」です。「消化酵素アミラーゼが多く含まれる分泌液」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0033",
+    "question": "物質を構成する基本的な粒子は何でしょう？",
+    "answer": "原子",
+    "reading": "原子",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "原子",
+      "DNA",
+      "雲粒",
+      "対流"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「原子」です。「物質を構成する基本的な粒子」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0034",
+    "question": "原子核を構成する正の電荷を持つ粒子は何でしょう？",
+    "answer": "陽子",
+    "reading": "陽子",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "心臓",
+      "CO2",
+      "Au",
+      "陽子"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「陽子」です。「原子核を構成する正の電荷を持つ粒子」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  },
+  {
+    "id": "sci-0035",
+    "question": "熱の伝わり方の一つで、液体や気体の流れで熱が移動する現象は何でしょう？",
+    "answer": "対流",
+    "reading": "対流",
+    "acceptableAnswers": [],
+    "categoryId": "science",
+    "difficulty": 3,
+    "choices": [
+      "Na",
+      "水星",
+      "対流",
+      "H"
+    ],
+    "tags": [
+      "curated-baseline"
+    ],
+    "explanation": "答えは「対流」です。「熱の伝わり方の一つで、液体や気体の流れで熱が移動する現象」を表す理科・科学の基本事項です。単語を暗記するだけでなく、単位なら何を測るか、現象ならどのような仕組みか、元素記号なら物質名と用途を結び付けると理解が深まります。"
+  }
+]

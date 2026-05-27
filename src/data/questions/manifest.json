@@ -1,0 +1,82 @@
+[
+  {
+    "id": "history",
+    "label": "歴史",
+    "icon": "🏯",
+    "file": "history.json",
+    "total": 40,
+    "targetTotal": 400
+  },
+  {
+    "id": "geography",
+    "label": "地理",
+    "icon": "🗺️",
+    "file": "geography.json",
+    "total": 35,
+    "targetTotal": 300
+  },
+  {
+    "id": "science",
+    "label": "理科・科学",
+    "icon": "🧪",
+    "file": "science.json",
+    "total": 35,
+    "targetTotal": 350
+  },
+  {
+    "id": "literature",
+    "label": "文学・芸術",
+    "icon": "📚",
+    "file": "literature.json",
+    "total": 25,
+    "targetTotal": 300
+  },
+  {
+    "id": "sports",
+    "label": "スポーツ",
+    "icon": "🏅",
+    "file": "sports.json",
+    "total": 24,
+    "targetTotal": 250
+  },
+  {
+    "id": "entertainment",
+    "label": "芸能・エンタメ",
+    "icon": "🎬",
+    "file": "entertainment.json",
+    "total": 20,
+    "targetTotal": 250
+  },
+  {
+    "id": "politics",
+    "label": "政治・経済",
+    "icon": "🏛️",
+    "file": "politics.json",
+    "total": 24,
+    "targetTotal": 250
+  },
+  {
+    "id": "language",
+    "label": "言語・ことわざ",
+    "icon": "💬",
+    "file": "language.json",
+    "total": 20,
+    "targetTotal": 250
+  },
+  {
+    "id": "food",
+    "label": "食文化",
+    "icon": "🍽️",
+    "file": "food.json",
+    "total": 20,
+    "targetTotal": 200
+  },
+  {
+    "id": "news",
+    "label": "時事",
+    "icon": "📰",
+    "file": "news_2026_Q2.json",
+    "total": 25,
+    "targetTotal": 500
+  }
+]
